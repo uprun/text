@@ -1,0 +1,6 @@
+%YAML:1.0
+current_transpose_vector: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: f
+   data: [ 9.99729753e-001, -1.68973599e-002, -1.59675442e-002 ]
