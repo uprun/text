@@ -1,0 +1,89 @@
+map of results:
+     0     0     1     0     0     0
+     0     0     0     1     0     0
+     0     0     0     0     0     0
+     0     0     7     1     0     0
+     1     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     7     0     0     0
+     0     1     3     0     0     0
+     0     0     0     0     0     0
+     0     0     0    42     1     0
+map of norm values:
+     =     = 0.157     =     =     =
+     =     =     = 0.156     =     =
+     =     =     =     =     =     =
+     =     = 0.022 2.224     =     =
+ 2.205     =     =     =     =     =
+     =     =     =     =     =     =
+     =     =     =     =     =     =
+     =     = 0.365     =     =     =
+     = 0.157 0.052     =     =     =
+     =     =     =     =     =     =
+     =     =     = 0.004 0.156     =
+map of moves:
+     7|2    10|3    10|3    10|3    10|3    10|3
+    10|3    10|3    10|3    10|3    10|3     7|2
+     7|2    10|3    10|3    10|3    10|3     0|2
+     3|2     3|2    10|3     3|2     3|3     1|3
+     7|2     3|2    10|3     3|2     3|2     3|2
+     8|1    10|3    10|3    10|3    10|3    10|3
+    -3|0    10|3    10|3    10|3     7|2    10|3
+     4|0    10|3     8|2     8|2     7|2    10|3
+     8|2    10|3    10|3    10|3    10|3     7|2
+    10|3    10|3    10|3    10|3    10|3    10|3
+    10|3    10|3    10|3    10|3    10|3    10|4
+Passed : 65
+Starting selecting optimal initial parameters:
+Selected coordinates are: row : 10 column: 3
+Starting to find initial parameters:
+Selected initial parameters are: row : 10 column: 3
+Alpha: 2.858 Gamma: 0.229
+fnorm: 0.156 fmark: 1.000
+ shift x: -1.805 shift y: 0.007 shift z: 0.006
+ f: 343.488
+ r_x: 0.000
+ r_y: -0.000
+ r_z: -0.000
+Line Times:
+t[0]= 63.856; t[1]= 54.040; t[2]= 52.551; t[3]= 59.377; t[4]= 62.105; t[5]= 62.8
+81; t[6]= 64.513; t[7]= 55.946; t[8]= 53.839; t[9]= 53.682; t[10]= 53.496; t[11]
+= 53.030; t[12]= 62.456; t[13]= 63.479; t[14]= 58.114; t[15]= 78.620; t[16]= 74.
+907; t[17]= 56.249; t[18]= 58.560; t[19]= 57.103; t[20]= 57.924;
+xAlpha: 10 xGamma: 3
+par[0] = -1.805
+par[1] = 0.007
+par[2] = 0.006
+par[3] = 343.488
+par[4] = 0.000
+par[5] = -0.000
+par[6] = -0.000
+par[7] = 63.856
+par[8] = 54.040
+par[9] = 52.551
+par[10] = 59.377
+par[11] = 62.105
+par[12] = 62.881
+par[13] = 64.513
+par[14] = 55.946
+par[15] = 53.839
+par[16] = 53.682
+par[17] = 53.496
+par[18] = 53.030
+par[19] = 62.456
+par[20] = 63.479
+par[21] = 58.114
+par[22] = 78.620
+par[23] = 74.907
+par[24] = 56.249
+par[25] = 58.560
+par[26] = 57.103
+par[27] = 57.924
+
+Successfully finished to determine parameters!!!
+Starting reconstruction and export to *.PLY file
+Filtered count of points : 527 / 527
+Reconstruction and export are successfully finished. Result file name is :
+currentPLYExportFile.ply
+Code execution time: 218.764 seconds.
